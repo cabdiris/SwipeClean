@@ -31,7 +31,6 @@ SwipeCleen helps users **organize their gallery effortlessly** and **free up sto
 - **IDE:** Android Studio  
 - **UI:** Jetpack Compose  
 - **Gallery Access:** Android Media API  
-- **Animations:** Built-in Android animations for smooth swipe gestures  
 
 ---
 
@@ -66,9 +65,14 @@ SwipeCleen helps users **organize their gallery effortlessly** and **free up sto
 ---
 
 ## Screenshots / Demo
-![SwipeCleen Screenshot](asset\2.png)
 
-![SwipeCleen Swipe Demo](asset/2.png)  
+![SwipeCleen Screenshot](asset/2.png)  
+
+
+![SwipeCleen Screenshot](asset/3.png)
+
+
+![SwipeCleen Screenshot](asset/4.png)
 
 ---
 
