@@ -66,8 +66,8 @@ SwipeCleen helps users **organize their gallery effortlessly** and **free up sto
 ---
 
 ## Screenshots / Demo
-![SwipeCleen Screenshot](assets/screenshot1.png)  
-![SwipeCleen Swipe Demo](assets/demo.gif)  
+![SwipeCleen Screenshot](C:\Users\lenovo\Downloads\SwipeClean\asset\2.png)
+![SwipeCleen Swipe Demo](assets/2.png)  
 
 ---
 
@@ -75,3 +75,8 @@ SwipeCleen helps users **organize their gallery effortlessly** and **free up sto
 1. Clone the repo:  
 ```bash
 git clone https://github.com/cabdiris/SwipeCleen.git
+
+2. Open the project in Android Studio 
+3. Build and run on an Android device or emulator 
+4. Grant storage permissions when prompted
+
