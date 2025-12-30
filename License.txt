@@ -1,0 +1,13 @@
+This source code is licensed for a single project use.
+
+You are allowed to:
+✔ Use it in one personal or commercial project
+✔ Modify the code as needed
+✔ Publish your final app on the Play Store
+
+You are NOT allowed to:
+✘ Resell or redistribute the source code
+✘ Publish this item as template/source code on Gumroad/CodeCanyon/Lemon Squeezy
+✘ Share the source code publicly
+
+For extended or multi-app license, please contact the author.
